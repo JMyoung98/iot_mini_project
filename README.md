@@ -2,4 +2,4 @@
 
 Small project for practice the communication each other machine
 
-![]([https://photos.app.goo.gl/7dPhwxY1VTPWo5qS8])
+![](https://drive.google.com/file/d/12uQFOd1FYK8tCztuKR8pqGL6_J-Mycsi/view?usp=sharing)
