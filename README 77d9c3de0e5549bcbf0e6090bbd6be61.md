@@ -21,7 +21,6 @@ Small project for practice the communication each other machine
 ![](https://drive.google.com/uc?export=download&id=11-4P4uDzyemlccDjqBEDPKdk927KukHk) |![](https://drive.google.com/uc?export=download&id=1qEHY1LMjeFOlNp35hEXzUsPmoBwswKWf)
 --- | --- | 
 ![](https://drive.google.com/uc?export=download&id=1TCzFLiNjlJGK7XsKt0nF4azWTWEC_A99) |![](https://drive.google.com/uc?export=download&id=1hVwLmzKvd3epg50nWWUPVeSmK_fhnvPg)
---- | --- | 
 
 **M4 uses Bluetooth to send the reservation number entered by the reservationist to the server on the Raspberry Pi, and the server sends M4's value to the sql_client. The sql_client checks whether the value is the same as the value received in the pre-made database, and if it is, it sends the name with “correct”, and if it is incorrect, it relays “Decline” to the server and sends it back to M4. M4 parses the value received from sql_client, including 'correct', extracts the name and displays it on the LCD, and if 'Decline' is received, it turns on the LED to warn you.**
 
