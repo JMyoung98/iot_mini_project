@@ -8,7 +8,8 @@ Small project for practice the communication each other machine
 
 ---
 
-![](https://drive.google.com/uc?export=download&id=12uQFOd1FYK8tCztuKR8pqGL6_J-Mycsi) | ![](https://drive.google.com/uc?export=download&id=1cyEyYLu4RqZiRobOs4QvsdbxGzknCNQp)
+![](https://drive.google.com/uc?export=download&id=12uQFOd1FYK8tCztuKR8pqGL6_J-Mycsi) |![](https://drive.google.com/uc?export=download&id=1cyEyYLu4RqZiRobOs4QvsdbxGzknCNQp)
+--- | --- | 
 
 **The hotel system sends the password to the guest through primary security (sending the reservation number via M4) and secondary security (verifying the ID card and password via Arduino).** 
 
