@@ -54,4 +54,5 @@ Small project for practice the communication each other machine
 - **I think the check-in system is well made, but considering the linkage with other systems needed in a hotel, I think it would be a better project if it could also do check-out.**
 - **When the value is sent directly from the SQL Client to the Arduino, if there is a small time difference, it is not received because the value comes before the Arduino restarts the loop statement, and I gave it a sleep to solve it, but if that happens, the entire code will stop, so I will have to find another way.**
 - **We wanted to design more secure security using GPS, but it was difficult due to the unstable GPS module. A more sophisticated GPS module that allows for more sophisticated operations would be more complete.**
-<center># Thank you</center>  
+
+# <center> Thank you</center>  
